@@ -34,7 +34,6 @@ The analysis aimed to answer several critical business questions, including:
 - **Python** – Data analysis and visualization:
   - **Pandas** – Data manipulation.
   - **Matplotlib** – Visual representation of data.
-- **SQL** – Querying and modeling the data.
 
 ## Data Source
 - Data for this project was obtained from: https://www.kaggle.com/datasets/rhonarosecortez/new-york-airbnb-open-data 
